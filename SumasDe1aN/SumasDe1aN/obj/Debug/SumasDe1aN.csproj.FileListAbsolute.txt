@@ -1,0 +1,11 @@
+C:\Users\rodri\source\repos\SumasDe1aN\SumasDe1aN\bin\Debug\SumasDe1aN.exe.config
+C:\Users\rodri\source\repos\SumasDe1aN\SumasDe1aN\bin\Debug\SumasDe1aN.exe
+C:\Users\rodri\source\repos\SumasDe1aN\SumasDe1aN\bin\Debug\SumasDe1aN.pdb
+C:\Users\rodri\source\repos\SumasDe1aN\SumasDe1aN\obj\Debug\SumasDe1aN.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\SumasDe1aN\SumasDe1aN\obj\Debug\SumasDe1aN.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\source\repos\SumasDe1aN\SumasDe1aN\obj\Debug\SumasDe1aN.Form1.resources
+C:\Users\rodri\source\repos\SumasDe1aN\SumasDe1aN\obj\Debug\SumasDe1aN.Properties.Resources.resources
+C:\Users\rodri\source\repos\SumasDe1aN\SumasDe1aN\obj\Debug\SumasDe1aN.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\SumasDe1aN\SumasDe1aN\obj\Debug\SumasDe1aN.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\SumasDe1aN\SumasDe1aN\obj\Debug\SumasDe1aN.exe
+C:\Users\rodri\source\repos\SumasDe1aN\SumasDe1aN\obj\Debug\SumasDe1aN.pdb
