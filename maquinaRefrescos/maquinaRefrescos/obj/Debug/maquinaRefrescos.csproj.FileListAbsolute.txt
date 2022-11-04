@@ -1,0 +1,11 @@
+C:\Users\rodri\source\repos\maquinaRefrescos\maquinaRefrescos\bin\Debug\maquinaRefrescos.exe.config
+C:\Users\rodri\source\repos\maquinaRefrescos\maquinaRefrescos\bin\Debug\maquinaRefrescos.exe
+C:\Users\rodri\source\repos\maquinaRefrescos\maquinaRefrescos\bin\Debug\maquinaRefrescos.pdb
+C:\Users\rodri\source\repos\maquinaRefrescos\maquinaRefrescos\obj\Debug\maquinaRefrescos.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\maquinaRefrescos\maquinaRefrescos\obj\Debug\maquinaRefrescos.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\source\repos\maquinaRefrescos\maquinaRefrescos\obj\Debug\maquinaRefrescos.Form1.resources
+C:\Users\rodri\source\repos\maquinaRefrescos\maquinaRefrescos\obj\Debug\maquinaRefrescos.Properties.Resources.resources
+C:\Users\rodri\source\repos\maquinaRefrescos\maquinaRefrescos\obj\Debug\maquinaRefrescos.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\maquinaRefrescos\maquinaRefrescos\obj\Debug\maquinaRefrescos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\maquinaRefrescos\maquinaRefrescos\obj\Debug\maquinaRefrescos.exe
+C:\Users\rodri\source\repos\maquinaRefrescos\maquinaRefrescos\obj\Debug\maquinaRefrescos.pdb
