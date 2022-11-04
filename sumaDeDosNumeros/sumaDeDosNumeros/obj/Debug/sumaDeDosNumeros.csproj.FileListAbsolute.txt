@@ -1,0 +1,11 @@
+C:\Users\rodri\source\repos\sumaDeDosNumeros\sumaDeDosNumeros\bin\Debug\sumaDeDosNumeros.exe.config
+C:\Users\rodri\source\repos\sumaDeDosNumeros\sumaDeDosNumeros\bin\Debug\sumaDeDosNumeros.exe
+C:\Users\rodri\source\repos\sumaDeDosNumeros\sumaDeDosNumeros\bin\Debug\sumaDeDosNumeros.pdb
+C:\Users\rodri\source\repos\sumaDeDosNumeros\sumaDeDosNumeros\obj\Debug\sumaDeDosNumeros.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\sumaDeDosNumeros\sumaDeDosNumeros\obj\Debug\sumaDeDosNumeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\source\repos\sumaDeDosNumeros\sumaDeDosNumeros\obj\Debug\sumaDeDosNumeros.Form1.resources
+C:\Users\rodri\source\repos\sumaDeDosNumeros\sumaDeDosNumeros\obj\Debug\sumaDeDosNumeros.Properties.Resources.resources
+C:\Users\rodri\source\repos\sumaDeDosNumeros\sumaDeDosNumeros\obj\Debug\sumaDeDosNumeros.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\sumaDeDosNumeros\sumaDeDosNumeros\obj\Debug\sumaDeDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\sumaDeDosNumeros\sumaDeDosNumeros\obj\Debug\sumaDeDosNumeros.exe
+C:\Users\rodri\source\repos\sumaDeDosNumeros\sumaDeDosNumeros\obj\Debug\sumaDeDosNumeros.pdb
