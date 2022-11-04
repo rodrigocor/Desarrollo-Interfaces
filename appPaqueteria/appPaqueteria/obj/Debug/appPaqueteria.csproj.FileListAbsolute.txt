@@ -1,0 +1,11 @@
+C:\Users\rodri\source\repos\appPaqueteria\appPaqueteria\bin\Debug\appPaqueteria.exe.config
+C:\Users\rodri\source\repos\appPaqueteria\appPaqueteria\bin\Debug\appPaqueteria.exe
+C:\Users\rodri\source\repos\appPaqueteria\appPaqueteria\bin\Debug\appPaqueteria.pdb
+C:\Users\rodri\source\repos\appPaqueteria\appPaqueteria\obj\Debug\appPaqueteria.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\appPaqueteria\appPaqueteria\obj\Debug\appPaqueteria.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\source\repos\appPaqueteria\appPaqueteria\obj\Debug\appPaqueteria.Form1.resources
+C:\Users\rodri\source\repos\appPaqueteria\appPaqueteria\obj\Debug\appPaqueteria.Properties.Resources.resources
+C:\Users\rodri\source\repos\appPaqueteria\appPaqueteria\obj\Debug\appPaqueteria.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\appPaqueteria\appPaqueteria\obj\Debug\appPaqueteria.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\appPaqueteria\appPaqueteria\obj\Debug\appPaqueteria.exe
+C:\Users\rodri\source\repos\appPaqueteria\appPaqueteria\obj\Debug\appPaqueteria.pdb
